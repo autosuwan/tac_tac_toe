@@ -1,4 +1,7 @@
 ## Tic Tac Toe Game (Python Tkinter)
+
+*PS. This is a game that I did for fun and learn Tkinter in Python.*
+
 This is a simple Tic Tac Toe game implemented in Python using the Tkinter GUI library. The game features:
 
 * A start screen to welcome players before the game begins.
@@ -18,3 +21,17 @@ This is a simple Tic Tac Toe game implemented in Python using the Tkinter GUI li
 * A recursive function approach to handle the game flow and button click events.
 
 * This project is ideal for beginners learning Python GUI programming, event-driven programming, and basic game logic implementation.
+
+
+### Example
+
+#### *More compact on Window*
+
+**This is a start menu.**
+![Start](img/start.png)
+
+![Game](img/game.png)
+![End](img/end.png)
+
+### Thanks for reading.
+
